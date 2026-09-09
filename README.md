@@ -33,7 +33,7 @@ Import the database (MySQL)
 Import the provided .sql file into your local MySQL server
 
 Configure database connection in the config file
-Then run the project on a local server (e.g. XAMPP/WAMP)
+Then run the project on a local server (e.g.WAMP)
 ```
 
 ## Status
