@@ -26,8 +26,8 @@ This system provides a centralized platform for hospital appointment management,
 Clone the repository
 git clone https://github.com/pabasaraperera10/hospital-appointment-management-system.git
 
- Navigate to the project directory
- cd hospital-appointment-management-system
+Navigate to the project directory
+cd hospital-appointment-management-system
 
 Import the database (MySQL)
 Import the provided .sql file into your local MySQL server
